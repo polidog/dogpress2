@@ -1,0 +1,19 @@
+{
+    "name": "polidog/dog-press",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Polidog\\DogPress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "polidog",
+            "email": "polidogs@gmail.com"
+        }
+    ],
+    "require": {
+        "nyholm/psr7": "^1.8"
+    }
+}
